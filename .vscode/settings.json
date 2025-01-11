@@ -18,5 +18,6 @@
 		"source.fixAll.eslint": "explicit",
 		"source.fixAll.stylelint": "explicit",
 		"source.sortImports": "explicit"
-	}
+	},
+	"cSpell.words": ["twentytwentyfive"]
 }
