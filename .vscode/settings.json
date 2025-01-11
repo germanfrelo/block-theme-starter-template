@@ -18,5 +18,11 @@
 		"source.fixAll.eslint": "explicit",
 		"source.fixAll.stylelint": "explicit",
 		"source.sortImports": "explicit"
+	},
+	"[xml]": {
+		"editor.defaultFormatter": "stylelint.vscode-stylelint"
+	},
+	"[svg]": {
+		"editor.defaultFormatter": "jock.svg"
 	}
 }
